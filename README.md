@@ -1,3 +1,3 @@
 **Readme**
 
-linked : [here](https://ColdsnapApp.github.io)!
+linked : [here](https://ColdsnapOfficial.github.io)!
